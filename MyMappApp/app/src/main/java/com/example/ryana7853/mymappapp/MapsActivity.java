@@ -1,5 +1,6 @@
 package com.example.ryana7853.mymappapp;
 
+import android.R;
 import android.support.v4.app.FragmentActivity;
 import android.os.Bundle;
 
